@@ -37,7 +37,6 @@ The repository is organized as follows:
 
 - `index.html`: The HTML markup of the cafe menu webpage.
 - `styles.css`: The CSS stylesheet containing the styling rules.
-- `images/`: Directory for storing images used in the project.
 
 Feel free to explore, modify, and experiment with the code to learn more about responsive web design and CSS layout techniques.
 
